@@ -1,5 +1,10 @@
 # lifeline-os
 
+This is a personal project of mine intended to develop a system, to design the architecture of an enterprise application dedicated to improving the nursing quality in hospitals, critical care facilities, retirement homes, etc... 
+For now this is the generated project from quarkus but will develop into a full application dedicated to support nurses in their day-to-day tasks.
+
+
+
 This project uses Quarkus, the Supersonic Subatomic Java Framework.
 
 If you want to learn more about Quarkus, please visit its website: <https://quarkus.io/>.
